@@ -1,0 +1,12 @@
+androguard==3.3.5
+Appium-Python-Client==2.2.0
+gym==0.19.0
+loguru==0.6.0
+numpy==1.21.6
+selenium==4.2.0
+texttable==1.6.4
+torch==1.11.0
+matplotlib~=3.5.2
+networkx==2.8.4
+py-jsonic
+stable-baselines3==0.10.0
