@@ -2,3 +2,7 @@
 dynamic_analysis/.DS_Store
 .DS_Store
 *.pyc
+.idea
+SOOTOUT
+analyzed_folder
+error_folder

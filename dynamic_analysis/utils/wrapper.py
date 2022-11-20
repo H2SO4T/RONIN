@@ -10,7 +10,7 @@ class TimeFeatureWrapper(gym.Wrapper):
     :param max_steps: (int) Max number of steps of an episode
         if it is not wrapped in a TimeLimit object.
     :param test_mode: (bool) In test mode, the time feature is constant,
-        equal to zero. This allow to check that the agent did not overfit this feature,
+        equal to zero. This allows to check that the agent did not overfit this feature,
         learning a deterministic pre-defined sequence of actions.
     """
     def __init__(self, env, max_steps=100, test_mode=False):
