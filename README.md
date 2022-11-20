@@ -34,4 +34,5 @@
 # Output
 
 RONIN generates a folder named ``SOOTOUT`` that contains the output of the `static_anaysis` 
+an eventually of the `dynamic_analysis`
 

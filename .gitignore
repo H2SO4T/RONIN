@@ -5,3 +5,5 @@ dynamic_analysis/.DS_Store
 SOOTOUT
 analyzed_folder
 error_folder
+action_loger.log
+bug_logger.log
