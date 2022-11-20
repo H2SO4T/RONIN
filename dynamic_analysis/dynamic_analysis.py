@@ -126,7 +126,6 @@ def start_dynamic_analysis(app_path: str, app_name: str):
         dot_file = read_dot(os.path.join(pardir, 'graph.dot'))
 
         for activity in apk_info.exported_activities:
-            break
             if len(activity['actions']) == 0:
                 activity['actions'] = ['']
             for action in activity['actions']:
